@@ -83,18 +83,25 @@ Github 能够托管你撰写的文本（代码、文字、图片等），社区�
 ### 其他工具
 
 - [PopClip](https://pilotmoon.com/popclip/)
-  macOS，其中有一个插件```md2mm```，可以将 Markdown 无序列表直接转换为 mindmap 格式
+  - macOS，其中有一个插件```md2mm```，可以将 Markdown 无序列表直接转换为 mindmap 格式
 - [Pandoc](http://pandoc.org/)
-  macOS/Windows/Linux，Markdown、Word、PDF 多种文档格式互转
-- [md2googleslides](https://github.com/googlesamples/md2googleslides): Generate Google Slides from Markdown
-- [Markdown Here](https://github.com/adam-p/markdown-here): Chrome、Safari 等浏览器插件，用 Markdown 格式撰写，一键转格式（CSS 格式可自定义）
-- [Scrivener](http://www.literatureandlatte.com/scrivener.php): macOS/Windows/iOS，书籍、论文、剧本等专业写作工具
-- [MultiMarkdown](http://fletcherpenney.net/multimarkdown/features/): Markdown 进阶版，支持公式、脚注、引用等高级格式
-- [Copy as Markdown](https://chrome.google.com/webstore/detail/copy-as-markdown/fkeaekngjflipcockcnpobkpbbfbhmdn): Chrome 插件，点击即可将当前网页的标题和链接以 Markdown 格式输出
+  - macOS/Windows/Linux，Markdown、Word、PDF 多种文档格式互转
+- [md2googleslides](https://github.com/googlesamples/md2googleslides)
+  - Generate Google Slides from Markdown
+- [Markdown Here](https://github.com/adam-p/markdown-here)
+  - Chrome、Safari 等浏览器插件，用 Markdown 格式撰写，一键转格式（CSS 格式可自定义）
+- [Scrivener](http://www.literatureandlatte.com/scrivener.php)
+  - macOS/Windows/iOS，书籍、论文、剧本等专业写作工具
+- [MultiMarkdown](http://fletcherpenney.net/multimarkdown/features/)
+  - Markdown 进阶版，支持公式、脚注、引用等高级格式
+- [Copy as Markdown](https://chrome.google.com/webstore/detail/copy-as-markdown/fkeaekngjflipcockcnpobkpbbfbhmdn)
+  - Chrome 插件，点击即可将当前网页的标题和链接以 Markdown 格式输出
 
 ## 练习题
 
 点击链接：[测试题](https://github.com/YUE-Inc/Training/issues/1)
+
+---
 
 ### 参考资料
 
