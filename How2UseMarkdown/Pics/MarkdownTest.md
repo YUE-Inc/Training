@@ -4,7 +4,9 @@
 
 ## 添加图片
 
-![插入图片](https://github.com/YUE-Inc/Training/Pics/MarkdownTest.png)
+![插入图片](https://cloud.githubusercontent.com/assets/3224399/22852006/0e0d94b8-f06e-11e6-82b3-5f4201a26eab.png)
+
+随意插入一张即可
 
 ## 添加引用
 
