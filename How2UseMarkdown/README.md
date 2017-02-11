@@ -56,34 +56,36 @@ Github 能够托管你撰写的文本（代码、文字、图片等），社区�
 
 ## 结合 Gitbook 来写作
 
-一句话概括：[GitBook](https://www.gitbook.com/)能帮你写书。
+一句话概括：[GitBook](https://www.gitbook.com/) 能帮你写书。
 
 通过 Gitbook 可以生成、编辑目录，协同编写文档，生成电子书，绑定域名后还可以在线发布。
 
-可参考[Gitbook入门教程](https://www.gitbook.com/book/yuzeshan/gitbook-studying/details)
+可参考 [Gitbook 入门教程](https://www.gitbook.com/book/yuzeshan/gitbook-studying/details)
 
 ## 工具推荐
 
 ### 写作工具
 
-- [Typora](https://typora.io/) macOS/Windows/Linux
-- [Atom](https://atom.io/) macOS/Windows
-- [MWeb](http://zh.mweb.im/) Web/macOS/iOS
-- [JotterPad](https://2appstudio.com/jotterpad/) Android
-- [锤子便签](http://www.smartisan.com/apps/notes) Android
-- [Byword](https://bywordapp.com/) macOS/iOS
-- [MacDown](https://macdown.uranusjr.com/) macOS
-- [MarkdownPad](http://markdownpad.com/) Windows
-- [Mou](http://25.io/mou/) macOS
-- [Cmd Markdown](https://www.zybuluo.com/cmd/) Web/macOS/Windows/Linux
-- [码字](http://mazimd.com/) Web
-- [简书](http://www.jianshu.com/writer#/) Web/iOS/Android
-- [Marked](http://marked2app.com/) macOS
+- [Typora](https://typora.io/) | macOS/Windows/Linux
+- [Atom](https://atom.io/) | macOS/Windows
+- [MWeb](http://zh.mweb.im/) | Web/macOS/iOS
+- [JotterPad](https://2appstudio.com/jotterpad/) | Android
+- [锤子便签](http://www.smartisan.com/apps/notes) | Android
+- [Byword](https://bywordapp.com/) | macOS/iOS
+- [MacDown](https://macdown.uranusjr.com/) | macOS
+- [MarkdownPad](http://markdownpad.com/) | Windows
+- [Mou](http://25.io/mou/) | macOS
+- [Cmd Markdown](https://www.zybuluo.com/cmd/) | Web/macOS/Windows/Linux
+- [码字](http://mazimd.com/) | Web
+- [简书](http://www.jianshu.com/writer#/) | Web/iOS/Android
+- [Marked](http://marked2app.com/) | macOS
 
 ### 其他工具
 
-- [PopClip](https://pilotmoon.com/popclip/): macOS，其中有一个插件```md2mm```，可以将 Markdown 无序列表直接转换为 mindmap 格式
-- [Pandoc](http://pandoc.org/): macOS/Windows/Linux，Markdown、Word、PDF 多种文档格式互转
+- [PopClip](https://pilotmoon.com/popclip/)
+  macOS，其中有一个插件```md2mm```，可以将 Markdown 无序列表直接转换为 mindmap 格式
+- [Pandoc](http://pandoc.org/)
+  macOS/Windows/Linux，Markdown、Word、PDF 多种文档格式互转
 - [md2googleslides](https://github.com/googlesamples/md2googleslides): Generate Google Slides from Markdown
 - [Markdown Here](https://github.com/adam-p/markdown-here): Chrome、Safari 等浏览器插件，用 Markdown 格式撰写，一键转格式（CSS 格式可自定义）
 - [Scrivener](http://www.literatureandlatte.com/scrivener.php): macOS/Windows/iOS，书籍、论文、剧本等专业写作工具
@@ -102,5 +104,5 @@ Github 能够托管你撰写的文本（代码、文字、图片等），社区�
 
 ### CHANGELOG
 
-20170210 Arlmy 创建
-20170211 Arlmy 写作完成
+- 20170210 Arlmy 创建
+- 20170211 Arlmy 写作完成
