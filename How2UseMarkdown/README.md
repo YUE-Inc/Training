@@ -88,7 +88,7 @@ Github 能够托管你撰写的文本（代码、文字、图片等），社区�
 - [Markdown Here](https://github.com/adam-p/markdown-here): Chrome、Safari 等浏览器插件，用 Markdown 格式撰写，一键转格式（CSS 格式可自定义）
 - [Scrivener](http://www.literatureandlatte.com/scrivener.php): macOS/Windows/iOS，书籍、论文、剧本等专业写作工具
 - [MultiMarkdown](http://fletcherpenney.net/multimarkdown/features/): Markdown 进阶版，支持公式、脚注、引用等高级格式
--
+- [Copy as Markdown](https://chrome.google.com/webstore/detail/copy-as-markdown/fkeaekngjflipcockcnpobkpbbfbhmdn): Chrome 插件，点击即可将当前网页的标题和链接以 Markdown 格式输出
 
 ## 练习题
 
