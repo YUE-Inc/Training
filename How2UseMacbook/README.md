@@ -75,9 +75,13 @@
   - Zotero
   - Matlab
   - SPSS
+  - Acrobat
 - 浏览器
   - Safari
   - Chrome
+- 图片处理/设计
+  - PS
+  - AI
 - 文档撰写：
   - macOS 套装：Pages / Numbers / Keynote
   - Office 套装：Word / Office / PowerPoint
