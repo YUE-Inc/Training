@@ -21,11 +21,12 @@ display:none  !important;
 .icon_member_dis,
 .W_new,
 .placeholder,
-.ficon_arrow_right, .W_fold, 
+.ficon_arrow_right, .W_fold,
 .ficon_more,
 .webim_fold,
 .webim_fold_v2,
-.W_new_count {
+.W_new_count,
+.gn_topmenulist_search {
 display:none  !important;
 }
 
