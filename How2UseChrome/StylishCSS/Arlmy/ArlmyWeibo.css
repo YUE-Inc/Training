@@ -13,7 +13,19 @@ display:none  !important;
 
 /* Hide ads */
 #v6_pl_content_biztips,
-.mini_panel_area {
+.mini_panel_area,
+.key,
+.W_icon_level,
+.icon_level_c4,
+.W_icon,
+.icon_member_dis,
+.W_new,
+.placeholder,
+.ficon_arrow_right, .W_fold, 
+.ficon_more,
+.webim_fold,
+.webim_fold_v2,
+.W_new_count {
 display:none  !important;
 }
 
