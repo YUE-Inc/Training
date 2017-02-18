@@ -23,12 +23,22 @@ display:none  !important;
 .placeholder,
 .ficon_arrow_right, .W_fold,
 .ficon_more,
-.webim_fold,
-.webim_fold_v2,
-.W_new_count,
-.gn_topmenulist_search {
+.webim_fold, .webim_fold_v2, /* 隐藏私信按钮 */
+.W_new_count, /* 隐藏左侧有更新提醒（黄色数字） */
+.gn_topmenulist_search, /* 隐藏点击搜索框后的热门推荐 */
+[feedtype=ad], /* 隐藏信息流广告 */
+[ad-data], /* 隐藏宽幅广告 */
+[nm="game"], [nm="find"], [nm="tv"], /* 隐藏导航栏内的视频、发现、游戏 */
+#home_new_feed_tip, /* 隐藏有新微博的黄色提醒框 */
+.W_icon_vipstyle,
+.WB_vipcover,
+.footer_link
+{
 display:none  !important;
 }
+
+
+
 
 /******** original code ********/
 
