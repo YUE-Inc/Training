@@ -22,6 +22,8 @@
 - [Git Tutorial - Try Git](https://try.github.io/levels/1/challenges/1)
 - [GitHub 协作五大业余姿势 | ishanshan's blog](http://ishanshan.top/community/HbGitHubCooperate.html)
 - [IdxCooperateBasicSkill · OpenMindClub/Share Wiki](https://github.com/OpenMindClub/Share/wiki/IdxCooperateBasicSkill)
+- [HbAssignmentHandup · OpenMindClub/Share Wiki | 开智学堂作业提交&互评指南](https://github.com/OpenMindClub/Share/wiki/HbAssignmentHandup)
+- [HbGitHubNotifyStu · OpenMindClub/Share Wiki](https://github.com/OpenMindClub/Share/wiki/HbGitHubNotifyStu)
 
 ---
 
