@@ -24,6 +24,7 @@
 - [IdxCooperateBasicSkill · OpenMindClub/Share Wiki](https://github.com/OpenMindClub/Share/wiki/IdxCooperateBasicSkill)
 - [HbAssignmentHandup · OpenMindClub/Share Wiki | 开智学堂作业提交&互评指南](https://github.com/OpenMindClub/Share/wiki/HbAssignmentHandup)
 - [HbGitHubNotifyStu · OpenMindClub/Share Wiki](https://github.com/OpenMindClub/Share/wiki/HbGitHubNotifyStu)
+- [如果你用Github，可以这样提高效率 - 简书](http://www.jianshu.com/p/f0f65f15d295)
 
 ---
 
