@@ -33,7 +33,7 @@ Tips：非 Mac 系统肯定不一样，应该就不必参考本文了。[Windows
 4. 部署代码
    - 修改 ```_config.yml```  最好用 https，在  Github Repository 的 Code 内点击 Clone or download -> use https -> copy 链接，填写进 ```_config.yml``` 
      - ```
-       deploy
+       deploy:
        	type: git
        	repo: https://github.com/[RepositoryNmae]/XXX.github.io.git
        	branch: gh-pages```
@@ -42,8 +42,8 @@ Tips：非 Mac 系统肯定不一样，应该就不必参考本文了。[Windows
    - ```hexo deploy``` 部署至 Github
 5. 更换主题
    - 我用的：[maupassant-hexo](https://github.com/tufu9441/maupassant-hexo) （含配置方法）
-     - ```npm install hexo-renderer-sass —save```  这一步如果报错，需要换为 ```cnpm``` （[淘宝 NPM 镜像](https://npm.taobao.org/) ）：
-       - ```npm uninstall  hexo-renderer-sass —save``` 
+     - ```npm install hexo-renderer-sass --save```  这一步如果报错，需要换为 ```cnpm``` （[淘宝 NPM 镜像](https://npm.taobao.org/) ）：
+       - ```npm uninstall  hexo-renderer-sass --save``` 
        - ```npm install -g cnpm --registry=https://registry.npm.taobao.org``` 
-       - ```cnpm install hexo-renderer-sass —save``` 
+       - ```cnpm install hexo-renderer-sass --save``` 
      - 有自己域名的，配置 CNAME 文件（文件名 CNAME 无后缀，内容为指向的域名链接）放入 hexo 下的 source 文件夹，在 DNSPod 上配置解析（日后 favicon.ico、images 也都要放在这里），配置后记得 generate 和 deploy
